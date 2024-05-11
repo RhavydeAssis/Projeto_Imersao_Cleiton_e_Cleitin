@@ -1,1 +1,2 @@
 # Projeto_Imersao_Cleiton_e_Cleitin
+Esse readme contem um arquivo contém dois chatbots ao mesmo tempo, o Cleiton e o Cleitin, que são dois tpos diferentes de chatbots, Cleiton, que é mais focado em respostas formais, e Cleitin, que é mais focado em respostas informais e menos complexas. Digite obrigado para encerrar sua conversa com Cleiton e digite valeu para encerrar sua conversa com Cleitinho. (obs: Você deve mandar Cleitin começar a falar gírias com você).
